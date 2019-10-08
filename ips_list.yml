@@ -19,7 +19,7 @@
 #
 
 pulp_soc:
-  commit: master
+  commit: pulpissimo-next
   server: https://github.com
   group:  pulp-platform
 
